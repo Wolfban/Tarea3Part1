@@ -1,28 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ef3d5a-7271-4f72-919b-0cf63e24510f" name="Changes" comment="" />
+    <list default="true" id="75ef3d5a-7271-4f72-919b-0cf63e24510f" name="Changes" comment="Se agregan los datos llamados de la clase Furro al Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Furro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Furro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaDelStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaDelStatic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DPrSKnXpUDevCxHJQq6XEuTsoy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="PruebaDelStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaDelStatic" />
+      <module name="Tarea3Part1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PruebaDelStatic" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +67,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660611559028</updated>
+      <workItem from="1660611560701" duration="76000" />
+      <workItem from="1660754320510" duration="1240000" />
+      <workItem from="1661110038559" duration="4319000" />
     </task>
+    <task id="LOCAL-00001" summary="Se agrega la clase Furros y se incluyen los datos de Furros como un objeto.">
+      <created>1661115326166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115326166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se agrega la clase Furro y se incluyen los datos de Furros como un objeto.">
+      <created>1661115431685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115431685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se corrige la clase">
+      <created>1661115484604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115484604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se agrega la clase PruebaDelStatic">
+      <created>1661115538917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115538917</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se agregan los datos llamados de la clase Furro al Main">
+      <created>1661116261467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661116261467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se agrega la clase Furros y se incluyen los datos de Furros como un objeto." />
+    <MESSAGE value="Se agrega la clase Furro y se incluyen los datos de Furros como un objeto." />
+    <MESSAGE value="Se corrige la clase" />
+    <MESSAGE value="Se agrega la clase PruebaDelStatic" />
+    <MESSAGE value="Se agregan los datos llamados de la clase Furro al Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregan los datos llamados de la clase Furro al Main" />
   </component>
 </project>
