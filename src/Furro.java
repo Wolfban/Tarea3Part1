@@ -43,6 +43,9 @@ public class Furro {
                 ", Edad=" + Edad +
                 '}';
     }
+    void Mostrar(){
+        System.out.println("Nombre: "+getNombre()+" "+getEdad()+"" +"annios " + "Especie: "+getEspecie());
+    }
 
 
 }
