@@ -10,6 +10,7 @@ public class Furro {
         Nombre = nombre;
         Edad = edad;
     }
+    public Furro(){}
 
     public String getNombre() {
         return Nombre;
@@ -37,7 +38,7 @@ public class Furro {
 
     @Override
     public String toString() {
-        return "Furros{" +
+        return "Furro{" +
                 "Nombre='" + Nombre + '\'' +
                 ", Edad=" + Edad +
                 '}';
