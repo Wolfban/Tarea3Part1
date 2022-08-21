@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Debe crear un ejemplo en Java que permita demostrar el uso de una variable estatica en al menos una clase.
 /**
  * @author Esteban Barrera
  */
