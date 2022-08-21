@@ -1,6 +1,7 @@
 /**
  * @author Esteban Barrera
  */
+//Debe crear un ejemplo en Java que permita demostrar el uso de una variable estatica en al menos una clase.
 public class Furro {
     String Nombre;
     int Edad;
